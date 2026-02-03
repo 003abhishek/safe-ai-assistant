@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+chat_log.log
+venv/
+.env.*
